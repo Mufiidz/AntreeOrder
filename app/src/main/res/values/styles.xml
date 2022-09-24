@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomSheetModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_bottom</item>
+    </style>
+    <style name="TitleText" parent="TextAppearance.Material3.DisplaySmall">
+        <item name="android:textColor">@color/onSurface</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
